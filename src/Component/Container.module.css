@@ -1,0 +1,8 @@
+.Container{
+    border: 2px solid rgb(8, 8, 8);
+    background-color: rgb(241, 243, 242);
+    height: auto;
+    width: 600px;
+     /* overflow-y: auto;  */
+  /* overflow-x: hidden;  */
+}
